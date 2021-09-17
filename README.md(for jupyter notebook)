@@ -1,0 +1,27 @@
+Data-Driven Strategy for Microsoft Film Studio's Debut Release (Flatiron , project:1)
+The libaries our Notebook put in use were:
+Numpy: For data cleaning/graphing
+Matplotlib: To visualize our data
+Pandas: To clean the data and organize them for our purpose. 
+Seaborn: To make attractive visuals
+Our datasets that were put in use were imported from:
+imdb.com 
+thenumbers.com  
+themoviedb.com.
+We created a cleaning function to apply to our datasets
+We used pandas to clean each dataset from its orignal source.
+We joined the IMdb datasets into a single master dataframe
+Joined the tn and tmbd into a single master dataframe = 'grand dataframe'
+Isolated the tn and tmbd master dataframe to the years 2000-2018
+Used matplotlib and grand dataframe to display different bar charts with different metrics:
+(first dictionary of bar charts): The number of films each genre made from 2000-2018
+(second dictionary of bar charts):'Percent Share of Total Market Films'
+(third dictionary of bar charts): Profit in Billions (USD) for each genre
+(fourth dictionary of bar charts): Percent Share of Total Market Revenue for each genre
+To establish the most profitable action based actors we created a dataframe from the tn/tmbd datasets but this time isolating the elements inside the dataframe
+Then got the average profit per movie for each actor and created a dictionary 
+Then Caluclated the probabilty of the profitability of each actor 
+With those two findngs we created a new dataframe called: 'cast_stats_df'
+We then filtered the dataframe to only display the reliable actors
+We created a scatter plot with matplotlib to diplay profit vs production budget.
+The last 'result' section protrays which descion we went with and why.
