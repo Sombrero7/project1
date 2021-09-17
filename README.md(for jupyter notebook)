@@ -25,3 +25,6 @@ With those two findngs we created a new dataframe called: 'cast_stats_df'
 We then filtered the dataframe to only display the reliable actors
 We created a scatter plot with matplotlib to diplay profit vs production budget.
 The last 'result' section protrays which descion we went with and why.
+
+
+To view our presentation on this topic: https://docs.google.com/presentation/d/1dHrXUgLlUviPgM20E0uWq3WwCHnkDPLZiI8EoM2sESU/edit#slide=id.gf08a648b8e_0_16
