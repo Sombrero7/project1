@@ -1,7 +1,0 @@
-We have a 'Main' branch that is the final work of all the contributers joined together 
-3 sub branches: 'Jared', 'Wes', 'Seraj', to view the work of each individual contribuer
-On the main branch:
-The 'Dataframes' folder includes the master dataset as csv that we put in use for our project.
-The "Workbooks" folder includes all of our indivdual jupyter notebboks / updated notebooks.
-The "ZippedData" folder includes all the seperate datasets that were put in use for the project.
-The 'README.md' file takes you through a step by step guide on our Final jupyter notebook.
